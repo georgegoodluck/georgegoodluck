@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building modern web applications with Shadcn and Next.js.<br><br>👯 I’m looking to collaborate on innovative projects and open-source contributions.<br><br>🤝 I’m looking for help with mastering advanced Python data structures.<br><br>🌱 I’m currently learning Python and backend development.<br><br>💬 Ask me about React, Git workflows, or web design.<br><br>⚡ Fun fact: I’m a huge dog lover! 🐶
+🔭 I’m currently working on building modern web applications with Shadcn, Next.js and TypeScript.<br><br>👯 I’m looking to collaborate on innovative projects and open-source contributions.<br><br>🤝 I’m looking for help with mastering advanced Python data structures.<br><br>🌱 I’m currently learning Python and backend development.<br><br>💬 Ask me about React, Git workflows, or web design.<br><br>⚡ Fun fact: I’m a huge dog lover! 🐶
 
 
 ## 🌐 Socials:
