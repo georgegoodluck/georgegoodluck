@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building softwares.<br><br>👯 I’m looking to collaborate on innovative projects and open-source contributions.<br><br>🤝 I’m looking for help with mastering advanced Python data structures.<br><br>🌱 I’m currently learning more on DevOps.<br><br>💬 Ask me about FullStack development<br><br>⚡ Fun fact: I’m a huge dog lover! 🐶
+🔭 Building softwares.<br><br>👯 Looking to collaborate on innovative projects and open-source contributions.<br><br>🌱 I’m currently learning more on DevOps.<br><br>💬 Ask me about FullStack development<br>
 
 
 ## 🌐 Socials:
