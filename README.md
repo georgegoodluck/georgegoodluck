@@ -1,73 +1,88 @@
-# Hi 👋 My name is George Goodluck
+# Hi 👋, I'm George Goodluck
 
 ### Software Engineer
 
----
+> *"If it doesn't ship, it doesn't matter."*
 
-I’m a software engineer focused on building products that people actually use — not just projects that sit in repositories.
+I build products people actually use and not projects that sit in repositories. Software Engineer focused on performance, usability, and clean architecture.
 
-I work across the full stack, turning ideas into scalable systems with a strong focus on performance, usability, and clean architecture.
-
----
-
-Currently building in developer tooling, payments, and health-tech.
+**Currently building:** Developer tooling, payments infrastructure & health-tech systems
 
 ---
 
-If it doesn’t ship, it doesn’t matter.
-
-<br/>
-
-* 🌍 I'm based in Nigeria
-* ✉️ You can contact me at [georgegoodluck.dev@gmail.com](mailto:georgegoodluck.dev@gmail.com)
-* 🚀 I'm currently working on [DevBoard](https://devboard-dev.vercel.app/overview)
-* 👥 I'm looking to collaborate on Open Source Projects
-
----
-
-## 🛠 Tech Stack
+### 📫 Connect with me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,tailwind,docker,kubernetes,figma,git" />
+<a href="https://linkedin.com/in/georgegoodluck" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/georgegoodluck" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://x.com/Fabunmi_George" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://dev.to/georgegoodluck" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+<a href="mailto:georgegoodluck.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
+
+**📍 Nigeria** &nbsp;|&nbsp; **🤝 Open to collaborations** &nbsp;|&nbsp; **🚀 Working on [DevBoard](https://devboard-dev.vercel.app/overview)**
+
+---
+
+### 💻 Tech Stack
+
+#### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+#### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=georgegoodluck&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=georgegoodluck&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgegoodluck&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=georgegoodluck&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 🌐 Socials
+### ✍️ Dev Quote
 
-<p align="left">
-<a href="https://www.github.com/georgegoodluck" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://www.x.com/Fabunmi_George" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</a>
-<a href="https://www.dev.to/georgegoodluck" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
-</a>
-<a href="https://www.linkedin.com/in/georgegoodluck" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-<a href="https://www.stackoverflow.com/users/17843486" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-</a>
-<a href="https://discord.com/users/georgegoodluck" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-</a>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="http://www.github.com/georgegoodluck">
-<img src="https://github-readme-stats.vercel.app/api?username=georgegoodluck&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="http://www.github.com/georgegoodluck">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=georgegoodluck&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="https://github.com/georgegoodluck">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgegoodluck&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" />
-</a>
+**📌 Currently:** Building scalable systems @ DevTool & MediPager  
+**🎯 2026 Goal:** Ship tools that people love
