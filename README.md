@@ -62,7 +62,6 @@ I build products people actually use and not projects that sit in repositories. 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=georgegoodluck&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=georgegoodluck&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
