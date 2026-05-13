@@ -79,5 +79,5 @@ I build products people actually use and not projects that sit in repositories. 
 
 ---
 
-**📌 Currently:** Building scalable systems @ DevTool & MediPager  
+**📌 Currently:** Building scalable systems @ DevBoard & MediPager  
 **🎯 2026 Goal:** Ship tools that people love
