@@ -61,15 +61,9 @@ I build products people actually use and not projects that sit in repositories. 
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=georgegoodluck&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=georgegoodluck&theme=darkhub&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
-</p>
-
----
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=georgegoodluck&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=georgegoodluck&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=georgegoodluck&layout=compact&theme=radical)
 
 ### ✍️ Dev Quote
 
