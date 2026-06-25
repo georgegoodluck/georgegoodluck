@@ -163,20 +163,10 @@ Next.js • TypeScript • PostgreSQL
 
 <p align="center">
 
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=georgegoodluck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%"
-src="https://streak-stats.demolab.com?user=georgegoodluck&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgegoodluck&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=georgegoodluck&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=georgegoodluck&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=georgegoodluck&layout=compact&theme=radical)
 
 ---
 
