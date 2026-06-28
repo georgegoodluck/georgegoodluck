@@ -164,7 +164,8 @@ Next.js • TypeScript • PostgreSQL
 <p align="center">
 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=georgegoodluck&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=georgegoodluck&theme=radical) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=georgegoodluck&theme=radical)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=georgegoodluck&layout=compact&theme=radical)
 
 ---
