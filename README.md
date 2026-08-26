@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/> Hi, I'm George Goodluck
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Building+Products+That+Matter;TypeScript+•+React+•+Next.js;Always+Learning+%26+Shipping+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=FullStack+Engineer;Building+Products+That+Matter;TypeScript+•+React+•+Next.js;Always+Learning+%26+Shipping+🚀" />
 </p>
 
 <p align="center">
