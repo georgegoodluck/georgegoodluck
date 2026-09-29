@@ -20,7 +20,7 @@
 
 > **"If it doesn't ship, it doesn't matter."**
 
-I'm a passionate full-stack engineer focused on building products that solve real-world problems.
+I'm a passionate FullStack engineer focused on building products that solve real-world problems.
 
 I enjoy designing scalable systems, crafting delightful user experiences, and turning ideas into products people genuinely love using.
 
