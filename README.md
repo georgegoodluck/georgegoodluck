@@ -36,7 +36,7 @@ I enjoy designing scalable systems, crafting delightful user experiences, and tu
 
 ```ts
 const george = {
-  role: "Full-Stack Engineer",
+  role: "FullStack Engineer",
 
   location: "Nigeria 🇳🇬",
 
