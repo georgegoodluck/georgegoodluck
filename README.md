@@ -36,7 +36,7 @@ I enjoy designing scalable systems, crafting delightful user experiences, and tu
 
 ```ts
 const george = {
-  role: "FullStack Engineer",
+  role: "Full Stack Engineer",
 
   location: "Nigeria 🇳🇬",
 
@@ -101,7 +101,7 @@ Next.js • Node.js • Stripe
 
 ### ✍️ InkSpire
 
-A creator-first platform for writing, publishing, and sharing ideas.
+A creator first platform for writing, publishing, and sharing ideas.
 
 **Tech**
 React • Express • MongoDB
