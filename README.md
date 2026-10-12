@@ -24,7 +24,7 @@ I'm a passionate Full Stack engineer focused on building products that solve rea
 
 I enjoy designing scalable systems, crafting delightful user experiences, and turning ideas into products people genuinely love using.
 
-* 🔭 Currently building **DevBoard**, **TickrPay**, **InkSpire**, and **MediPager**
+* 🔭 Currently building **KeelBoard**<!--, **TickrPay**, **InkSpire**, and **MediPager** -->
 * 🌱 Learning **Advanced System Design**, **Cloud Architecture**, and **Kubernetes**
 * 👯 Open to collaborating on developer tools and open-source projects
 * 💬 Ask me about **React**, **Next.js**, **TypeScript**, **Node.js**, and product engineering
