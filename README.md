@@ -55,7 +55,7 @@ const george = {
     "Build useful things. Ship fast. Iterate faster.",
 
   currentlyBuilding: [
-    "DevBoard",
+    "KeelBoard",
     "TickrPay",
     "InkSpire",
     "MediPager"
@@ -73,7 +73,7 @@ const george = {
 
 <td width="50%">
 
-### 📊 DevBoard
+### 📊 KeelBoard
 
 A modern workspace designed to help developers manage projects, tasks, and productivity.
 
@@ -175,7 +175,7 @@ Next.js • TypeScript • PostgreSQL
 ```ts
 const focus = {
   shipping: [
-    "DevBoard",
+    "KeelBoard",
     "TickrPay",
     "InkSpire",
     "MediPager"
