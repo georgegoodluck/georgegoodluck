@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"/> Hi, I'm George Goodluck
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Building+Products+That+Matter;TypeScript+•+React+•+Next.js;Always+Learning+%26+Shipping+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Building+Products+That+Matter;TypeScript+•+React+•+Next.js;Always+Learning+%26+Shipping+🚀" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 > **"If it doesn't ship, it doesn't matter."**
 
-I'm a passionate Full Stack engineer focused on building products that solve real world problems.
+I'm a passionate Software Engineer focused on building products that solve real world problems.
 
 I enjoy designing scalable systems, crafting delightful user experiences, and turning ideas into products people genuinely love using.
 
@@ -36,7 +36,7 @@ I enjoy designing scalable systems, crafting delightful user experiences, and tu
 
 ```ts
 const george = {
-  role: "Full Stack Engineer",
+  role: "Software Engineer",
 
   location: "Nigeria 🇳🇬",
 
@@ -145,7 +145,7 @@ Next.js • TypeScript • PostgreSQL
 
 <img src="https://img.shields.io/badge/Always-Building-orange?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Fullstack-Engineer-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software-Engineer-purple?style=for-the-badge"/>
 
 </p>
 
